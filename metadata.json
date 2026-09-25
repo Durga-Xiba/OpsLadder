@@ -1,0 +1,6 @@
+{
+  "name": "Jackpot Round Board",
+  "description": "Dual-screen synchronized trivia game board with private host control and public audience projector display.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
